@@ -1,0 +1,1 @@
+I am learning how to make apps and this is my first application.The application is for creating bank accounts adding money to the account or withdraw money from the bank account. I am learning how to use classes and objects and while making this app learn about constructors in classes, events and what encapsulation is used for.
