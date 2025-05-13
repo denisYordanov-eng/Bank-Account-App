@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\bin\Debug\net8.0-windows\Bank-Accounts-Application.exe
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\bin\Debug\net8.0-windows\Bank-Accounts-Application.deps.json
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\bin\Debug\net8.0-windows\Bank-Accounts-Application.runtimeconfig.json
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\bin\Debug\net8.0-windows\Bank-Accounts-Application.dll
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\bin\Debug\net8.0-windows\Bank-Accounts-Application.pdb
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank_Accounts_Application.Form1.resources
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.dll
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\refint\Bank-Accounts-Application.dll
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.pdb
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\Bank-Accounts-Application.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\C#\Bank-Account-App\Bank-Accounts-Application\Bank-Accounts-Application\obj\Debug\net8.0-windows\ref\Bank-Accounts-Application.dll
